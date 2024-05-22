@@ -1,0 +1,8 @@
+.error-message {
+    border: 1px solid red; /* Red border around the error message box */
+    background-color: #ffe6e6; /* Light red background color */
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 5px; /* Rounded corners for the error box */
+    display: none; /* Hide by default */
+}
